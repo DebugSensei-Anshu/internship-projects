@@ -1,5 +1,4 @@
 const apiKey = "04dcf6b81af2de1bd96f3ffad122498a";
-
 const weatherButton = document.getElementById("getWeather");
 const resultDiv = document.getElementById("result");
 
